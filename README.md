@@ -13,9 +13,10 @@ As a first step, an R library was used in order to read the csv file with the in
 
 Then, the data was visualized with a simple R statement to analyze the distribution, quantity of records, the class of each attribute and to get a summary of each characteristic within the table. Therefore, once the data was checked, the final R code was built to accomplish the main goal. The data retrieved was focused on the distribution of the final price and their relationship whit the user reviews.
 
+![graphics library](https://github.com/KenethRojas/games/assets/131609936/b2f54e97-6fc6-41c8-a0ad-b2be0fce2027)
+
 Next, the final R code was run using R Studio and it was necessary to visualize these two outputs so the results can be easily analyzed, as shown in the following images:
 
-![graphics library](https://github.com/KenethRojas/games/assets/131609936/b2f54e97-6fc6-41c8-a0ad-b2be0fce2027)
 ![Distribución del precio final](https://github.com/KenethRojas/games/assets/131609936/b554ba2c-8bf5-4297-bfee-aaf4f1907531)
 ![Precio final según valoraciones](https://github.com/KenethRojas/games/assets/131609936/6fd2e3e9-d84e-498d-9e69-47e50073d980)
 
